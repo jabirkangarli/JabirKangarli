@@ -31,7 +31,7 @@ class DataScienceAnalyst():
     self.name = "Jabir Kangarli";
     self.username = "jabirkangarli";
     self.location = "Warsaw, Poland";
-    self.specialty = "A/B Testing & Data Analysis";
+    self.specialty = "A/B Testing & Data Science Analytics";
     self.web = "https://www.linkedin.com/in/jabirkangarli/";
   
   def __str__(self):
