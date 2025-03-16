@@ -4,7 +4,7 @@
 <br> -->
 <div align="center">
   <a href="https://open.spotify.com/playlist/34Lyk4RsVosjgqnXbbbsrr?si=dbd0507e415545b4" target="blank">
-    <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+    <img src="https://media2.giphy.com/media/tqfS3mgQU28ko/giphy.gif?cid=ecf05e47sighzme6yvb3rrxhs220h5yale8hxwi3xvxz44dr&rid=giphy.gif&ct=g" />
   </a>
 </div>
 <p align="center"> 
@@ -13,13 +13,16 @@
   </a>    
 </p>
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet" alt="profile_views" />
+<img src="https://komarev.com/ghpvc/?username=jabirkangarli&color=blueviolet" alt="profile_views" />
  </p>
  <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Science-5865F2" />
   <img src="https://img.shields.io/badge/Focus-A/B%20Testing-5865F2" />
   <img src="https://img.shields.io/badge/Focus-Analytics-5865F2" />
   <img src="https://img.shields.io/badge/Languages-English-5865F2" />
+  <img src="https://img.shields.io/badge/Languages-Azerbaijani-5865F2" />
+  <img src="https://img.shields.io/badge/Languages-Turkish-5865F2" />
+  <img src="https://img.shields.io/badge/Languages-Polish-5865F2" />
 </p>
 <hr>
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="40"> Welcome to my data-driven space!</h1>
@@ -78,24 +81,8 @@ if __name__ == '__main__':
 <hr>
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activity</b></i></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&locale=en&theme=tokyonight" alt="github-stats" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabirkangarli&show_icons=true&locale=en&theme=tokyonight&hide=stars,prs,issues,contribs&custom_title=Python%20Activity" alt="github-stats" width="410" /></p>
 
 <hr>
 <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-bg=true" />
-
-<hr>
-<p align="center">
-  <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="200">
-</p>
-<p align="center">
-  <i>"Not everything that counts can be counted, and not everything that can be counted counts."</i><br>
-  <i>— William Bruce Cameron</i>
-</p>
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<img src="https://github-profile-trophy.vercel.app/?username=jabirkangarli&theme=tokyonight&no-bg=true" />
