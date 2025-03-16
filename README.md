@@ -76,9 +76,10 @@ if __name__ == '__main__':
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=5865F2)
 
 <hr>
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activity</b></i></p>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabirkangarli&show_icons=true&locale=en&theme=tokyonight&hide=stars,prs,issues,contribs&custom_title=Python%20Activity" alt="github-stats" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabirkangarli&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+
 
 <hr>
 <p align="left"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
