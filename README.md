@@ -78,7 +78,7 @@ if __name__ == '__main__':
 <hr>
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabirkangarli&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jabirkangarli&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="ovi" width="410" /></p>
 
 
 <hr>
