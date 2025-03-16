@@ -19,10 +19,7 @@
   <img src="https://img.shields.io/badge/Focus-Data%20Science-5865F2" />
   <img src="https://img.shields.io/badge/Focus-A/B%20Testing-5865F2" />
   <img src="https://img.shields.io/badge/Focus-Analytics-5865F2" />
-  <img src="https://img.shields.io/badge/Languages-English-5865F2" />
-  <img src="https://img.shields.io/badge/Languages-Azerbaijani-5865F2" />
-  <img src="https://img.shields.io/badge/Languages-Turkish-5865F2" />
-  <img src="https://img.shields.io/badge/Languages-Polish-5865F2" />
+  <img src="https://img.shields.io/badge/Languages-English%2C%20Azerbaijani%2C%20Turkish%2C%20Polish-5865F2" />
 </p>
 <hr>
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" width="40"> Welcome to my data-driven space!</h1>
